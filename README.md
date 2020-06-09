@@ -1,3 +1,3 @@
 # expenses
 
-A new Flutter project. Simple Expenses App,
+A simple expenses app i Flutter
